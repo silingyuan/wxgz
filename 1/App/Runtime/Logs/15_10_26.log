@@ -1,0 +1,5 @@
+[ 2015-10-26T17:08:17+08:00 ] 127.0.0.1 /ywzg/1/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+
